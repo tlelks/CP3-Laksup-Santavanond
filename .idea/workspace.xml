@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f474e0a1-54af-4554-8796-7cc96d7d83f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercise5_1_Laksup_S.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise5_2_Laksup_S.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise5_1_Laksup_S.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise5_1_Laksup_S.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,16 +21,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Exercise5_1_Laksup_S.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+            <state relative-caret-position="102">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Exercise5_2_Laksup_S.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
@@ -58,8 +56,8 @@
       <list>
         <option value="$PROJECT_DIR$/Exercise4_Laksup_S.py" />
         <option value="$PROJECT_DIR$/Exercise5_Laksup_S.py" />
-        <option value="$PROJECT_DIR$/Exercise5_1_Laksup_S.py" />
         <option value="$PROJECT_DIR$/Exercise5_2_Laksup_S.py" />
+        <option value="$PROJECT_DIR$/Exercise5_1_Laksup_S.py" />
       </list>
     </option>
   </component>
@@ -107,7 +105,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Exercise5_2_Laksup_S">
+  <component name="RunManager" selected="Python.Exercise5_1_Laksup_S">
     <configuration name="Exercise4_Laksup_S" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CP3-Laksup-Santavanond" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -173,8 +171,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Exercise5_2_Laksup_S" />
         <item itemvalue="Python.Exercise5_1_Laksup_S" />
+        <item itemvalue="Python.Exercise5_2_Laksup_S" />
         <item itemvalue="Python.Exercise4_Laksup_S" />
       </list>
     </recent_temporary>
@@ -194,14 +192,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -222,17 +221,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise5_1_Laksup_S.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Exercise5_2_Laksup_S.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise5_1_Laksup_S.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
